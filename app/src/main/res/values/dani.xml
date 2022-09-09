@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dani">
+        <item>Dani</item>
+        <item>PON</item>
+        <item>UTO</item>
+        <item>SRE</item>
+        <item>ČET</item>
+        <item>PET</item>
+    </string-array>
+</resources>
